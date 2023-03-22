@@ -1,0 +1,10 @@
+[Event "Casual Game"]
+[Site "?"]
+[Date "2023.03.22"]
+[Round "-"]
+[White "Stockfish 15.1"]
+[Black "/mnt/hdd/umbreon/projects/chess-engine/target/debug/chess-engine"]
+[Result "*"]
+[TimeControl "40/0"]
+1. Nf3 f6 2. e4 a5 3. d4 d5 4. d5 Qd5 5. Nc3 Qe6 6. Be2 b6 7. d5 Qg4 8. O-O Qb4 9. Nd4 e5 10. e6
+Ne7 11. Ncb5 Na6 12. Bf3 c6 13. Nc6 Nc6 14. Bc6 Ke7 15. Nd4 Rb8 16. Nf5 *
